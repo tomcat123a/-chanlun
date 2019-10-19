@@ -1,6 +1,6 @@
 # -chanlun
 缠论量化，人类历史上第一个胜率严格为100%的技术分析策略，包含严格笔，线段作为最低级别，中枢的构成，级别的扩展，第一二三类买卖点，同级别分解，背驰的判断，区间套，需要技术合作的加微信17866148858 。
-![Image of p4](https://www.github.com/tomcat123a/-chanlun/tree/master/zoushileixing/p4.png)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/p4.png)
 
  凡是认为缠论会因为知道的人多了，就渐渐失效的， 也请避免交流，这问题禅师本人早有叙述。万有引力定律，永远不失效。
  
