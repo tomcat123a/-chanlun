@@ -1,5 +1,5 @@
 # -chanlun
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/ezgif.com-gif-maker2.gif)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master//t2.gif)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x1.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x2.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x3.png)
