@@ -1,5 +1,4 @@
 # -chanlun
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master//t2.gif)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x1.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x2.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x3.png)
@@ -22,6 +21,7 @@
  凡是认为缠论会因为知道的人多了，就渐渐失效的， 也请避免交流，这问题禅师本人早有叙述。万有引力定律，永远不失效。
  
  本策略包含选股，选品种的策略，但是任何无交易期限限制的二级市场品种，包括比特币等均适用。
+ ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master//t2.gif)
  
  走势类型的划分，买卖点的确认，暂时不开源，付费咨询。
  
