@@ -1,4 +1,4 @@
-# -chanlun 去子之骄气与多欲，态色与淫志，是皆无益于子之身。吾所以告子，若是而已。
+# -chanlun 子所言者，其人与骨皆已朽矣，独其言在耳。且君子得其时则驾，不得其时则蓬累而行。吾闻之，良贾深藏若虚，君子盛德容貌若愚。去子之骄气与多欲，态色与淫志，是皆无益于子之身。吾所以告子，若是而已。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/1.jpg)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2013.jpg)
