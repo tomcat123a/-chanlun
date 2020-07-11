@@ -1,9 +1,9 @@
 # -chanlun 人分两种，一种在财务自由的路上，一种已然站了起来。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/1.jpg)
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2013.png)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2013.jpg)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2.jpg)
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2006.png)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2006.jpg)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/4.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x1.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/5.jpg)
