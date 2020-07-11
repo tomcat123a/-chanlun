@@ -1,4 +1,4 @@
-# -chanlun 人分两种，一种在财务自由的路上，一种已然站了起来。
+# -chanlun 去子之骄气与多欲，态色与淫志，是皆无益于子之身。吾所以告子，若是而已。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/1.jpg)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2013.jpg)
