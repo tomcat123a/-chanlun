@@ -1,11 +1,11 @@
 # -chanlun 子所言者，其人与骨皆已朽矣，独其言在耳。且君子得其时则驾，不得其时则蓬累而行。吾闻之，良贾深藏若虚，君子盛德容貌若愚。去子之骄气与多欲，态色与淫志，是皆无益于子之身。吾所以告子，若是而已。孔子去，谓弟子曰：“鸟，吾知其能飞；鱼，吾知其能游；兽，吾知其能走。走者可以为罔，游者可以为纶，飞者可以为矰。至于龙，吾不能知其乘风云而上天。
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2006.png)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
  
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2015.png)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
  
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2018.png)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
  
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x1.png)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
  
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x2.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x3.png)
