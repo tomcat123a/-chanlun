@@ -3,18 +3,18 @@
  
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
  
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2018_08.png)
  
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2010_08.png)
  
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x2.png)
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x3.png)
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x4.png)
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x5.png)
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x6.png)
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x7.png)
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x8.png)
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x9.png)
+#![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x3.png)
+#![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x4.png)
+#![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x5.png)
+#![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x6.png)
+#![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x7.png)
+#![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x8.png)
+#![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x9.png)
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/8.jpg)
 不懂缠论，就永远在财务自由的路上，这路能走通不，对于走路的人，是未知的。我这里能提供的只有，答案就在所有的缠论原文之中，经过回测，已经无数次的验证了其有效性。无论你是几个亿以下的小资金，还是大资金，都有方法。请坚定信念！如果你失败了一年，不妨再继续失败两年，当你绝望之际，终会回到原文，逼迫自己，求得真知。一亿多次访问量的博客，是不会骗你的。这正如无数人参加过的高考，有几个高中清华北大的。鄙人还是擦边弄了浙大。
 有缘者自会明白。已经明白的也不必来这了，只与还在路上，并且经历失望又还是充满信心的人共勉。你们掌握了缠论，的确是会胜利的。答案就在那原文当中，就好比高考题的答案都在无数的教辅，教材之中一样。有缘之人，参与市场，解决他人流动性需求，自己还能持续赚钱生存。那个介入，退出的买卖点，在哪里？有缘人自会找到它的，共勉之！
