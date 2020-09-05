@@ -6,7 +6,7 @@
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2018_08.png)
  
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2010_08.png)
- 
+ “有人说，为什么不懂缠论，就永远在财务自由的路上，难道没有别的理论，思路，方法？这并不矛盾，一切制造财富的东西，本质都是资源的调动，用现存资源获得更多资源（回报率大于1）。一切行为用财富的回报来衡量，也不过如此。当然这里面有时间的损耗，回撤，交易胜率。时间损耗，情绪，专注，代码，博弈，都是消耗掉的资源，换回来的东西，是盈利是亏损，就是回报。而如何产生行为使得回报大于1，这里面的道理，描述方法的一种，就是缠论。这就好比不同语言，工具，模型都可以描述（相对）真理一样。这就是对于正文第一句话的解释”。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x2.png)
 #![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x3.png)
 #![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x4.png)
