@@ -1,13 +1,14 @@
 # -chanlun 子所言者，其人与骨皆已朽矣，独其言在耳。且君子得其时则驾，不得其时则蓬累而行。吾闻之，良贾深藏若虚，君子盛德容貌若愚。去子之骄气与多欲，态色与淫志，是皆无益于子之身。吾所以告子，若是而已。孔子去，谓弟子曰：“鸟，吾知其能飞；鱼，吾知其能游；兽，吾知其能走。走者可以为罔，游者可以为纶，飞者可以为矰。至于龙，吾不能知其乘风云而上天。
+实盘业绩，交易记录，见-chanlun/模拟交易/ 。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
- 
+ 实盘业绩，交易记录，见-chanlun/模拟交易/ 。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
- 
+ 实盘业绩，交易记录，见-chanlun/模拟交易/ 。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2018_08.png)
- 
+ 实盘业绩，交易记录，见-chanlun/模拟交易/ 。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2010_08.png)
  “有人说，为什么不懂缠论，就永远在财务自由的路上，难道没有别的理论，思路，方法？这并不矛盾，一切制造财富的东西，本质都是资源的调动，用现存资源获得更多资源（回报率大于1）。一切行为用财富的回报来衡量，也不过如此。当然这里面有时间的损耗，回撤，交易胜率。时间损耗，情绪，专注，代码，博弈，都是消耗掉的资源，换回来的东西，是盈利是亏损，就是回报。而如何产生行为使得回报大于1，这里面的道理，描述方法的一种，就是缠论。这就好比不同语言，工具，模型都可以描述（相对）真理一样。这就是对于正文第一句话的解释”。
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x2.png)
+#![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x2.png)
 #![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x3.png)
 #![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x4.png)
 #![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/x5.png)
