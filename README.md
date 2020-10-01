@@ -1,4 +1,6 @@
 # -chanlun 
+股票说白了，要简单，也很简单。几句话，就说清楚了。
+
 【JoinQuant】策略名称：a3 
 链接：
 https://www.joinquant.com/algorithm/live/liveUrlShareIndex?backtestId=64809085bd660365f21b5a3748847bcd 
