@@ -7,6 +7,4 @@
  实盘业绩，交易记录，见-chanlun/模拟交易/ 。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/GPT2.png)
 以上仅为回测，
- 实盘业绩，交易记录，见-chanlun/模拟交易/ 。
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2010_08.png)
-
+ 
