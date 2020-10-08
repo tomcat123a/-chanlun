@@ -3,9 +3,9 @@
 密码：krey03
 实盘业绩，交易记录，见-chanlun/模拟交易/ 。以下仅为回测。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
-以上仅为回测，
+【JoinQuant】策略名称：新闻联播GP2语义挖掘-打板-模拟交易  链接：https://www.joinquant.com/algorithm/live/liveUrlShareIndex?backtestId=b820556a1a74674dccc1e714fb55c797  密码：m1fsv6
  实盘业绩，交易记录，见-chanlun/模拟交易/ 。
-![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2017_01.png)
+![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/GPT2.png)
 以上仅为回测，
  实盘业绩，交易记录，见-chanlun/模拟交易/ 。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/2010_08.png)
