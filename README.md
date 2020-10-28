@@ -8,3 +8,4 @@
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/GPT2.png)
 以上仅为回测，
  
+ ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/36ABB74F-7745-4D1F-BB38-F733A3E438B6.png)
