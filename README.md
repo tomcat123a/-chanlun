@@ -7,5 +7,5 @@
  实盘业绩，交易记录，见-chanlun/模拟交易/ 。
 ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/GPT2.png)
 以上仅为回测，
- 
+ https://market.m.taobao.com/app/idleFish-F2e/widle-taobao-rax/page-detail?wh_weex=true&wx_navbar_transparent=true&id=630813410753&ut_sk=1.XIGfl0y8NCkDAB9LFgJFtkkA_12431167_1603899075064.Copy.detail.630813410753.2758211150&forceFlush=1
  ![Image of p4](https://github.com/tomcat123a/-chanlun/blob/master/zoushileixing/36ABB74F-7745-4D1F-BB38-F733A3E438B6.png)
