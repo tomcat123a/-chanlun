@@ -1,3 +1,4 @@
+更新一下了，相联系我的，可以今日头条搜索，我昵称叫e，发表的文章有“干货分享：大模型进行二级投资决策到底行不行？答案是：no”
 # -chanlun 
  【JoinQuant】策略名称：a3 链接：https://www.joinquant.com/algorithm/live/liveUrlShareIndex?backtestId=53c323c75f639c9342eca8a1d9e9b7ab  
 密码：krey03
